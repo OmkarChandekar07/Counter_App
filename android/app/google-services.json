@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407240363812",
+    "project_id": "counter-f7572",
+    "storage_bucket": "counter-f7572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407240363812:android:a21d871baff846f0f7adb1",
+        "android_client_info": {
+          "package_name": "com.example.counter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU23fB6-591nInJmpzejPMUabVC_VnZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
